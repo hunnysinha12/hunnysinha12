@@ -1,6 +1,4 @@
-<!-- <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Saroj Kumar - Web Developer">
 
- -->
 
 ### Hey there 👋 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
@@ -30,7 +28,7 @@ Currently open for full-time/intern job roles in frontend development
 
 - Libraries & Frameworks -  `ReactJs` and `Tailwind-CSS`
 
-- Tools and Technologies -`HTML` `CSS` `Netilify` `Vercel` and `GIT`
+- Tools and Technologies -`HTML` `CSS` `Vercel` and `GIT`
 
 - Areas for interests - `Front-end Development` `Back-end Development` and `Full stack Development`
 
@@ -51,8 +49,6 @@ Currently open for full-time/intern job roles in frontend development
  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-
- <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
 
  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 
