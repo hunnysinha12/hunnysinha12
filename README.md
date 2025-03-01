@@ -24,7 +24,7 @@ Currently open for full-time/intern job roles in frontend development
 
 ### Skills
 
-- Languages - `C` `C++` `Java` and `Javascript`
+- Languages - `Next.js` `Node.js` and `Javascript`
 
 - Libraries & Frameworks -  `ReactJs` and `Tailwind-CSS`
 
