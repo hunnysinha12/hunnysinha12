@@ -14,7 +14,7 @@ Currently open for full-time/intern job roles in frontend development
 
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-<h3>I'm Jyoty Bhsuhan Sinha,  passionate Web Developer from India</h3>
+<h3>I'm Jyoty Bhsuhan Sinha, a passionate Web Developer from India</h3>
 
 
 - 🔭 I’m currently working on **Back-end Development** and learning **Data Structures and Algorithms**
