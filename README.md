@@ -17,7 +17,7 @@ Currently open for full-time/intern job roles in frontend development
 <h3>I'm Jyoty Bhsuhan Sinha, a passionate Web Developer from India</h3>
 
 
-
+- 🔭 I’m currently working on **Back-end Development** and learning **Data Structures and Algorithms**
 
 ### Skills
 
